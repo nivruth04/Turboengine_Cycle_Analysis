@@ -62,3 +62,4 @@ Running `turbojet_main.m` produces a figure with six subplots against Mach numbe
 5. Thermal efficiency (%)
 6. Overall efficiency (%)
 
+<img width="1667" height="797" alt="image" src="https://github.com/user-attachments/assets/b07fb097-898c-44c4-b668-8dc6c18cfd03" />
