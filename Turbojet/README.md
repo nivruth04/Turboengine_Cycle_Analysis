@@ -64,7 +64,7 @@ Running `turbojet_main.m` produces a figure with six subplots against Mach numbe
 6. Overall efficiency (%)
 
 The dry thrust(in kN) and the TSFC(in g/N/s) calculated from the model turned out to be 14.227 and $3.4715 \times 10^{-5}$ respectively. 
-The values were validated against the design point values of the J85-GE-21 turbojet engine at static condition ($Ma_{\infty}$), and the deviations of the model values were 16% and 6% for dry thrust and TSFC, respectively. 
+The values were validated against the design point values of the J85-GE-21 turbojet engine at static condition ($Ma_{\infty}=0$), and the deviations of the model values were 16% and 6% for dry thrust and TSFC, respectively. 
 The deviations are due to the idealized behaviour of the model, which neglects practical effects like air bleed for compressor cooling. 
 <img width="1636" height="777" alt="image" src="https://github.com/user-attachments/assets/a6dd9c58-2297-4c76-8f26-14b367a1cc45" />
 <img width="515" height="252" alt="Screenshot 2026-08-11 124716" src="https://github.com/user-attachments/assets/4d5edaac-8f3b-4b3f-9a20-58542b5907fe" />
